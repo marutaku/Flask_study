@@ -1,0 +1,10 @@
+manage.py起動（ウェブサーバ起動）
+↓
+ルート（/）でアクセス
+↓
+views.pyの中のshow_entryが動く
+↓
+render_templateでshow_entries.htmlを見せる
+↓
+「shere」を押すと(/add)に飛ぶ
+↓
